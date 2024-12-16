@@ -1,0 +1,52 @@
+.main-body{
+width: 1440px;
+height: 100px;
+align-content: center;
+justify-items: center;
+}
+
+.sub-body{
+  width: 1286px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 300px;
+  }
+.sub-div1{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  
+}
+.sub-div2{
+  display: flex;
+  align-items: center;
+  
+  }
+
+.sub-div3{
+  display: flex;
+  align-items: center;
+  width: 24.53px;
+  height: 22.06px;
+  gap: 40px;
+    }  
+.sub-div2ul{
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  }
+
+
+
+.div1-heading{
+font-size: 34px;
+font-weight: 700;
+}
+
+.link{
+  font-size: 16px;
+  font-weight: 500;
+}
+

@@ -1,0 +1,86 @@
+.cont-body{
+    width: 1440px;
+    height: 1796px;
+    }
+
+.cont-div1{
+background-image: url("/background-1.png");
+width: 1440px;
+height: 316px;
+justify-items: center;
+align-content: center;
+}
+
+.cont-image{
+    width: 77px;
+    height: 50px;
+}
+
+.cont-heading{
+    font-size: 48px;
+    font-weight: 500;
+    }
+.cont-subdiv{
+display: flex;
+gap: 20px;
+align-items: center;
+justify-content: center;    
+}
+.cont-div2{
+display: flex;
+flex-direction: column;
+padding: 20px 400px 20px 400px ;
+align-items: center;
+gap: 10px;
+}
+.cont-div2 h1{
+font-size: 36px;
+font-weight: 700;
+}
+.cont-div2 p{
+display: flex;
+font-size: 16px;
+font-weight: 400;
+justify-content: center;
+opacity: 50%;
+}
+
+.cont-div3{
+display: flex;
+height: auto;
+width: 80%;
+margin: 0px 150px 0px 150px;
+}
+
+.cont-div3sub{
+display: flex;
+flex-direction: column;
+margin: 20px 100px 0px 50px;
+gap: 20px;
+}
+
+.input-div{
+    width: 300%;
+    height: 80px;
+    padding: 8px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+}
+
+.input-div1{
+    width: 300%;
+    height: 160px;
+    padding: 8px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.cont-button{
+background: #B88E2F;
+color: white;
+width: 237px;
+height: 55px;
+}
+    
